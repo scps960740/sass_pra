@@ -8,7 +8,7 @@ module.exports = {
   // 入口
   entry: './src/index.js',
   // 模式 development
-  mode: 'production',
+  mode: 'development',
   // 出口
   output: {
     path: path.resolve(__dirname, 'dist'),
